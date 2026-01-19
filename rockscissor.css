@@ -1,0 +1,12 @@
+ 
+
+h1{
+    height: 100px;
+    width: 10px;
+    background-color: black;
+    text-align: center;
+}
+.choice{
+    height: 100px;
+    width: 100px;
+}

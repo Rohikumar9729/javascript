@@ -1,0 +1,66 @@
+
+ul{
+    background-color: black;
+    list-style-type: none;
+    overflow: auto;
+}
+
+
+li{
+    color:white;
+    font-size: 20px;
+    padding: 20px 35px;
+    margin-top: 10px;
+    float: left;
+    
+    
+    
+}
+#signup{
+    font-size: 20px;
+    margin-top: 16px ;
+    margin-right: 5px;
+    float:right;
+    cursor: pointer;
+
+}
+#signup:hover{
+border-radius: rgb(18, 18, 22);
+}
+.container{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.box{
+        
+       
+        
+        height: 150px;
+        width: 200px;
+background:linear-gradient(black,rgb(43, 40, 40));
+color: aliceblue;
+    margin: 50px;
+    border-radius: 10%;
+    text-align: center;
+
+    }
+    .container2{
+        width: 100%;
+        height: auto;
+        display: flex; 
+    }
+    .box2{
+        height: 150px;
+        width: 1000px;
+background:linear-gradient(rgb(52, 121, 225),rgb(52, 121, 225));
+border-radius: 10%;
+margin:50px;
+    }
+       
+    img{
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+
+
